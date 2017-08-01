@@ -1,0 +1,24 @@
+h1{
+	text-align:center;
+}
+h2{}
+h3{}
+body{
+	text-align: center;
+}
+ .bgg{
+    background: linear-gradient(to top left, #ffffcc 0%, #ffccff 100%);
+}
+
+img{
+	 max-width:10%;
+	 max-height:10%;
+	 float: center;
+	 margin: auto;
+	 border:2px solid black;
+	 border-radius: 50%;
+}
+.dropdown{
+	float: centre;
+}
+
